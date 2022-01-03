@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning in SLIIT.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +94 766228162
+- 📫 How to reach me +94 76 622 8162
 
 <!---
 ShenukaHeshan/ShenukaHeshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
